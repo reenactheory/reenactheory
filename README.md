@@ -8,7 +8,7 @@ I feel the happiest when I collaborate with people to gather, share ideas with o
 ## 👩‍💻 My Skills
 
 
-<p>🤍 SNS List 🤍</p>
+## 🤍 SNS List 🤍
 <a href="https://www.instagram.com/reenactheory/"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff">
 </a>
