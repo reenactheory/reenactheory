@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=AFADE7&height=30&section=header&text=Nice%20to%20Meet%20you!&fontSize=16&fontColor=ffffff)
 
-## Hi!
+## Hi! 🙌
 <h4>I'm Designer Jenna who wants to make design useful by seeing and learning a lot. ✍️ </h4>
 
 I feel the happiest when I collaborate with people to gather, share ideas with others and working on a project. I try to design by connecting the inconveniences of everyday life. ☁️
