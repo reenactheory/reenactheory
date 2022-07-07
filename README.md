@@ -6,7 +6,7 @@
 I feel the happiest when I collaborate with people to gather, share ideas with others and working on a project. I try to design by connecting the inconveniences of everyday life. ☁️
 
 ## 👩‍💻 My Skills
-
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=ffffff">
 
 ## 🤍 SNS List 🤍
 <a href="https://www.instagram.com/reenactheory/"/>
