@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=AFADE7&height=30&section=header&text=Nice%20to%20Meet%20you!&fontSize=16&fontColor=ffffff)
 
-🤍 SNS List 🤍
+###🤍 SNS List 🤍
 <a href="https://www.instagram.com/reenactheory/"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff">
 </a>
