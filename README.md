@@ -2,10 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=AFADE7&height=30&section=header&text=Nice%20to%20Meet%20you!&fontSize=16&fontColor=ffffff)
 -->
 
+<p align="center">
 ## Hi! 🙌
 <h4>I'm Designer Jenna who wants to make design useful by seeing and learning a lot. ✍️ </h4>
 
 I feel the happiest when I collaborate with people to gather, share ideas with others and working on a project. I try to design by connecting the inconveniences of everyday life. ☁️
+</p>
 
 ## 👩‍💻 My Skills
   <img alt="Adobe Photoshop" img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=ffffff"> <img alt="Adobe Illustrator" img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=ffffff"> <img alt="Adobe XD" img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=ffffff"> <img alt="Figma" img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=ffffff">
