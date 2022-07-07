@@ -5,8 +5,7 @@
 
 I feel the happiest when I collaborate with people to gather, share ideas with others and working on a project. I try to design by connecting the inconveniences of everyday life. ☁️
 
-<h2>👩‍💻 My Skills</h2>
-<h4>Tools</h4>
+##👩‍💻 My Skills
 
 
 <p>🤍 SNS List 🤍</p>
