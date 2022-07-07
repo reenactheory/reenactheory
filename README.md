@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=AFADE7&height=30&section=header&text=Nice%20to%20Meet%20you!&fontSize=16&fontColor=ffffff)
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 
 
