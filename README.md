@@ -7,6 +7,8 @@ I feel the happiest when I collaborate with people to gather, share ideas with o
 
 ## 👩‍💻 My Skills
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=ffffff">
 
 ## 🤍 SNS List 🤍
 <a href="https://www.instagram.com/reenactheory/"/>
