@@ -2,7 +2,7 @@
 
 <h4> Hi! I'm Designer Jenna who wants to make design useful by seeing and learning a lot. ✍️ </h4>
 
-I feel the happiest when I collaborate with people to gather, share ideas with others and working on a project. I try to design by connecting the inconveniences of everyday life. 💜
+I feel the happiest when I collaborate with people to gather, share ideas with others and working on a project. I try to design by connecting the inconveniences of everyday life. ☁️
 
 <h2>👩‍💻 My Skills</h2>
 <h4>Tools</h4>
