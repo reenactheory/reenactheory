@@ -6,7 +6,7 @@
 I feel the happiest when I collaborate with people to gather, share ideas with others and working on a project. I try to design by connecting the inconveniences of everyday life. ☁️
 
 ## 👩‍💻 My Skills
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=ffffff">
+  <img alt="photoshop" img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=ffffff">
 
