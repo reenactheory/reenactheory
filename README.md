@@ -21,7 +21,7 @@ I feel the happiest when I collaborate with people to gather, share ideas with o
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
 </a>
 <a href="https://twitter.com/siisue3515?s=20&t=sqsUBeT4ScxBfaI4HbZZSw"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter Twitter&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff">
 <!--
 **reenactheory/reenactheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
